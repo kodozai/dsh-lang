@@ -1,0 +1,24 @@
+{
+  "pkg": "dsh-client-ui-trajectory",
+  "entries": [
+    {
+      "ns": "trajectory",
+      "dict": {
+        "view.trajectory": "เส้นทางการทำงาน",
+        "toolbar.aria": "แถบเครื่องมือเส้นทางการทำงาน",
+        "toolbar.duration": "ระยะเวลา",
+        "toolbar.useActualDuration": "ใช้ระยะเวลาจริง",
+        "toolbar.useEqualWidth": "ใช้ความกว้างเท่ากันทุกการดำเนินการ",
+        "toolbar.actualTime": "เวลาจริง",
+        "toolbar.turns": "เทิร์น",
+        "toolbar.expandTurns": "ขยายเทิร์น",
+        "toolbar.collapseTurns": "ยุบเทิร์น",
+        "toolbar.calls": "การเรียกใช้",
+        "toolbar.expandCalls": "ขยายการเรียกใช้",
+        "toolbar.collapseCalls": "ยุบการเรียกใช้",
+        "toolbar.search": "ค้นหาในเส้นทางการทำงาน",
+        "toolbar.searchPlaceholder": "ค้นหา"
+      }
+    }
+  ]
+}

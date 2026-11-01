@@ -1,0 +1,16 @@
+{
+  "pkg": "dsh-client-ui-reference",
+  "entries": [
+    {
+      "ns": "reference",
+      "dict": {
+        "section.files": "Dosyalar ve klasörler",
+        "section.sessions": "Oturum konuşmaları",
+        "candidate.file": "Dosya",
+        "candidate.folder": "Klasör",
+        "candidate.session": "Oturum",
+        "candidate.noCwd": "(cwd yok)"
+      }
+    }
+  ]
+}

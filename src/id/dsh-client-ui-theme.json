@@ -1,0 +1,14 @@
+{
+  "pkg": "dsh-client-ui-theme",
+  "entries": [
+    {
+      "ns": "settings.theme",
+      "dict": {
+        "appearance.title": "Tampilan",
+        "appearance.light": "Terang",
+        "appearance.dark": "Gelap",
+        "appearance.system": "Sistem"
+      }
+    }
+  ]
+}

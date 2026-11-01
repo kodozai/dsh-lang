@@ -1,0 +1,15 @@
+{
+  "pkg": "dsh-client-ui-deliverables",
+  "entries": [
+    {
+      "ns": "deliverables",
+      "dict": {
+        "produced.label": "Geproduceerd",
+        "produced.moreOne": "+ 1 bestand",
+        "produced.more": "+ {count} bestands",
+        "produced.open": "{name} openen",
+        "produced.showInFolder": "Toon in map"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pkg": "dsh-client-ui-user-questions",
+  "entries": [
+    {
+      "ns": "question",
+      "dict": {
+        "error.incomplete": "Harap lengkapi pertanyaan ini terlebih dahulu.",
+        "error.unanswered": "Harap pilih salah satu opsi atau masukkan jawaban kustom.",
+        "nav.prev": "Pertanyaan sebelumnya",
+        "nav.next": "Pertanyaan berikutnya",
+        "nav.minimize": "Ciutkan kartu pertanyaan",
+        "nav.maximize": "Perluas kartu pertanyaan",
+        "nav.cancel": "Tutup semua pertanyaan",
+        "option.recommended": "Disarankan",
+        "custom.placeholder": "Ketik jawaban Anda",
+        "action.skip": "Lewati pertanyaan ini",
+        "action.next": "Berikutnya",
+        "plan.header": "Tinjauan rencana",
+        "plan.approve": "Setujui",
+        "plan.decline": "Tolak",
+        "plan.discuss": "Bahas dulu"
+      }
+    }
+  ]
+}

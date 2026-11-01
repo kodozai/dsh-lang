@@ -1,0 +1,25 @@
+{
+  "pkg": "dsh-client-ui-jobs",
+  "entries": [
+    {
+      "ns": "job",
+      "dict": {
+        "count.live.one": "{count} background job actief",
+        "count.live.other": "{count} background jobs actief",
+        "count.idle.one": "{count} achtergrondtaak",
+        "count.idle.other": "{count} achtergrondtaken",
+        "list.aria": "Achtergrondtaken",
+        "status.running": "actief",
+        "status.stopping": "wordt gestopt",
+        "status.completed": "voltooid",
+        "status.killed": "geannuleerd",
+        "status.failed": "mislukt",
+        "duration.seconds": "{seconds}s",
+        "duration.minutes": "{minutes}m {seconds}s",
+        "duration.hours": "{hours}h {minutes}m",
+        "duration.title.live": "Loopt al {duration}",
+        "duration.title.done": "Duurde {duration}"
+      }
+    }
+  ]
+}

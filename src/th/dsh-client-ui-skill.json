@@ -1,0 +1,15 @@
+{
+  "pkg": "dsh-client-ui-skill",
+  "entries": [
+    {
+      "ns": "skill",
+      "dict": {
+        "row.running": "กำลังโหลดสกิล",
+        "row.failed": "โหลดสกิลไม่สำเร็จ",
+        "row.stopped": "หยุดการโหลดสกิลแล้ว",
+        "row.instructions": "คำแนะนำ",
+        "menu.userOnly": "เฉพาะผู้ใช้"
+      }
+    }
+  ]
+}

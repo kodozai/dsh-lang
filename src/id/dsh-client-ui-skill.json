@@ -1,0 +1,15 @@
+{
+  "pkg": "dsh-client-ui-skill",
+  "entries": [
+    {
+      "ns": "skill",
+      "dict": {
+        "row.running": "Memuat keterampilan",
+        "row.failed": "Gagal memuat keterampilan",
+        "row.stopped": "Pemuatan keterampilan dihentikan",
+        "row.instructions": "Instruksi",
+        "menu.userOnly": "khusus pengguna"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pkg": "dsh-client-ui-trajectory",
+  "entries": [
+    {
+      "ns": "trajectory",
+      "dict": {
+        "view.trajectory": "Lintasan",
+        "toolbar.aria": "Bilah alat lintasan",
+        "toolbar.duration": "Durasi",
+        "toolbar.useActualDuration": "Gunakan durasi sebenarnya",
+        "toolbar.useEqualWidth": "Gunakan operasi berlebar sama",
+        "toolbar.actualTime": "Waktu sebenarnya",
+        "toolbar.turns": "Giliran",
+        "toolbar.expandTurns": "Perluas giliran",
+        "toolbar.collapseTurns": "Ciutkan giliran",
+        "toolbar.calls": "Panggilan",
+        "toolbar.expandCalls": "Perluas panggilan",
+        "toolbar.collapseCalls": "Ciutkan panggilan",
+        "toolbar.search": "Cari lintasan",
+        "toolbar.searchPlaceholder": "Cari"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pkg": "dsh-client-ui-theme",
+  "entries": [
+    {
+      "ns": "settings.theme",
+      "dict": {
+        "appearance.title": "ลักษณะที่ปรากฏ",
+        "appearance.light": "สว่าง",
+        "appearance.dark": "มืด",
+        "appearance.system": "ตามระบบ"
+      }
+    }
+  ]
+}

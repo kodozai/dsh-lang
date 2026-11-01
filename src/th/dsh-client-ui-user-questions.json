@@ -1,0 +1,25 @@
+{
+  "pkg": "dsh-client-ui-user-questions",
+  "entries": [
+    {
+      "ns": "question",
+      "dict": {
+        "error.incomplete": "โปรดตอบคำถามนี้ให้ครบก่อน",
+        "error.unanswered": "โปรดเลือกตัวเลือก หรือป้อนคำตอบของคุณเอง",
+        "nav.prev": "คำถามก่อนหน้า",
+        "nav.next": "คำถามถัดไป",
+        "nav.minimize": "ยุบการ์ดคำถาม",
+        "nav.maximize": "ขยายการ์ดคำถาม",
+        "nav.cancel": "ปิดคำถามทั้งหมด",
+        "option.recommended": "แนะนำ",
+        "custom.placeholder": "พิมพ์คำตอบของคุณ",
+        "action.skip": "ข้ามคำถามนี้",
+        "action.next": "ถัดไป",
+        "plan.header": "ตรวจทานแผน",
+        "plan.approve": "อนุมัติ",
+        "plan.decline": "ปฏิเสธ",
+        "plan.discuss": "พูดคุยเพิ่มเติม"
+      }
+    }
+  ]
+}
